@@ -1,0 +1,2 @@
+# Spaceship-Titanic-A-Probabilistic-Approach-to-Passenger-Transport-Prediction
+This notebook analyzes the **Spaceship Titanic dataset**. It uses three machine learning models, **Logistic Regression, Random Forest, and Gradient Boosting**, to predict passenger survival probabilities. The process involves handling missing data, calibrating models for accurate probabilities, and evaluating performance.
